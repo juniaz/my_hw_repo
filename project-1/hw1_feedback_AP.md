@@ -1,0 +1,2 @@
+I think you hit every question right on point. Not much feedback I have in terms of improving your work!<br>
+The only thing worth considering is finding and handling missing data, as that will be an important part of the exploratory process.
